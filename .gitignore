@@ -1,0 +1,11 @@
+*.uvopt
+*.uvoptx
+*.log
+*.hex
+*.bin
+*.o
+*.obj
+*.m51
+*.lst
+Objects/
+Listings/
